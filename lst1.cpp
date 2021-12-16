@@ -1,3 +1,5 @@
+#include "list_easy.h"
+
 void itc_even_index_list(const vector <int> &mass, vector <int> &mass2)
 {
   if (!mass || !mass2)
